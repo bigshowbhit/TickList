@@ -3,7 +3,7 @@
  
 <img width="500" alt="Screenshot 2025-01-16 at 17 26 28" src="https://github.com/user-attachments/assets/98724153-5179-4ae7-9cba-f4ee81f0fd8e" />
 
-<img width="500" alt="Screenshot 2025-01-16 at 17 24 49" src="https://github.com/user-attachments/assets/956b3cf5-647d-48f4-86fa-be749030d453" />
+<img width="500" alt="Screenshot 2025-01-16 at 17 26 28" src="https://github.com/user-attachments/assets/956b3cf5-647d-48f4-86fa-be749030d453" />
 
 **Features:**
 
