@@ -13,7 +13,7 @@ Task Management:
 - Delete individual tasks or all tasks at once.
 - Mark tasks as completed using a checkbox in the task table.
 
-Visual Enhancements:
+Visual Enhancements (SWIFT BASED):
 - Priority-based color coding:
           - Red: Important tasks.
           - Green: Normal tasks.
